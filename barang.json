@@ -1,0 +1,651 @@
+[
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": false,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-0",
+    "isNarasi": "Suatu hari, ayah mengajak Budi untuk pergi berkemah",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": " ", "setBackground": " ", "wordTitle": "" },
+        { "type": "", "iconImage": " ", "setBackground": " ", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-1",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "Budi bagaimana kalau besok kita pergi berkemah",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": false,
+    "objekModal": true,
+    "choise": false,
+    "isBackground": "background-kamping-2",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "Asyik",
+      "photo": "asyik-default",
+      "isGif": "eja-asyik",
+      "iconImage": "asyik-default",
+      "containerImage": [
+        "asyik-default",
+        "asyik-merah",
+        "asyik-pink",
+        "asyik-kuning",
+        "asyik-hijau",
+        "asyik-biru",
+        "asyik-donker",
+        "asyik-ungu"
+      ]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-3",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "Kamu ingin berkemah kemana Budi?",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": true,
+    "isBackground": "background-kamping-4",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "Kamu ingin berkemah kemana Budi?",
+    "isChoise": {
+      "setIndex": 17,
+      "pattern": [
+        {
+          "type": "A",
+          "iconImage": "icon-gunung-choice",
+          "setBackground": "background-gunung",
+          "wordTitle": "Gunung"
+        },
+        {
+          "type": "B",
+          "iconImage": "icon-pantai-choice",
+          "setBackground": "background-pantai",
+          "wordTitle": "Pantai"
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-5",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "Bagus Budi, ayah juga suka ###, kalau begitu ayo kita bersiap",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-6",
+    "isNarasi": "Budi pun berlari ke kemar untuk bersiap-siap",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-8",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "Ransel",
+      "photo": "ransel-default",
+      "isGif": "eja-ransel",
+      "iconImage": "ransel-default",
+      "containerImage": [
+        "ransel-default",
+        "ransel-merah",
+        "ransel-pink",
+        "ransel-kuning",
+        "ransel-hijau",
+        "ransel-biru",
+        "ransel-donker",
+        "ransel-ungu"
+      ]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-9",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "Baju",
+      "photo": "baju-default",
+      "isGif": "eja-baju",
+      "iconImage": "baju-default",
+      "containerImage": [
+        "baju-default",
+        "baju-merah",
+        "baju-pink",
+        "baju-kuning",
+        "baju-hijau",
+        "baju-biru",
+        "baju-donker",
+        "baju-ungu"
+      ]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-10",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-11",
+    "isNarasi": "Setelah selesai bersiap-siap Budi pun segera tidur karena ia sangat bersemangat untuk pergi berkemah besok",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": [""]
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" },
+        { "type": "", "iconImage": "", "setBackground": "", "wordTitle": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-11.jpg",
+    "isNarasi": "Keesokan harinya...",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        },
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-12.jpg",
+    "isNarasi": "Setelah selesai sarapan, Budi, Ayah dan Ibu pun langsung berangkat untuk berkemah",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        },
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-13.jpg",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "Budi kamu mau naik apa ke pantai?",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        },
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": false,
+    "navigationBack": false,
+    "narasi": false,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": true,
+    "isBackground": "background-kamping-14",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": 15,
+      "pattern": [
+        {
+          "type": "A",
+          "iconImage": "mobil-default",
+          "setBackground": "background-kamping-15"
+        },
+        {
+          "type": "B",
+          "iconImage": "bus-default",
+          "setBackground": "background-kamping-15"
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-15.jpg",
+    "isNarasi": "Selama perjalanan, Budi asyik melihat pemandangan yang indah",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        },
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-16.jpg",
+    "isNarasi": "Tak lama kemudian, budi, ayah dan ibu sampai di tempat berkemah",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        },
+        {
+          "wordTitle": "Tenda",
+          "type": "",
+          "iconImage": "",
+          "setBackground": ""
+        }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": false,
+    "navigationBack": false,
+    "narasi": false,
+    "dialogAyah": true,
+    "objekModal": true,
+    "choise": false,
+    "isBackground": "background-kamping-17.jpg",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "Tenda",
+      "photo": "tenda-default",
+      "isGif": "eja-tenda",
+      "iconImage": "tenda-default",
+      "containerImage": [
+        "tenda-default",
+        "tenda-merah",
+        "tenda-kuning",
+        "tenda-hijau",
+        "tenda-biru",
+        "tenda-dongker",
+        "tenda-ungu"
+      ]
+    },
+    "isDialogAyah": "Hmmm sebelum memulai berkemah apa yang kita siapkan terlebih dahulu Budi?",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "wordTitle": "", "type": "", "iconImage": "", "setBackground": "" },
+        { "wordTitle": " ", "type": "", "iconImage": "", "setBackground": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-18.jpg",
+    "isNarasi": "Setelah memasang tenda, Budi dan ayah di panggil ibu untuk makan siang bersama",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "wordTitle": "", "type": "", "iconImage": "", "setBackground": "" },
+        { "wordTitle": " ", "type": "", "iconImage": "", "setBackground": "" }
+      ]
+    }
+  },
+  {
+    "finish": false,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": true,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-19.jpg",
+    "isNarasi": "Selesai makan siang, ayah mengajak budi untuk berjalan - jalan dan bermain di sekitar tempat berkemah",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "wordTitle": "", "type": "", "iconImage": "", "setBackground": "" },
+        { "wordTitle": " ", "type": "", "iconImage": "", "setBackground": "" }
+      ]
+    }
+  },
+  {
+    "finish": true,
+    "navigationNext": true,
+    "navigationBack": true,
+    "narasi": false,
+    "dialogAyah": false,
+    "objekModal": false,
+    "choise": false,
+    "isBackground": "background-kamping-20.jpg",
+    "isNarasi": "",
+    "isModal": {
+      "wordTitle": "",
+      "photo": "",
+      "isGif": "",
+      "iconImage": "",
+      "containerImage": []
+    },
+    "isDialogAyah": "",
+    "isChoise": {
+      "setIndex": "",
+      "pattern": [
+        { "wordTitle": "", "type": "", "iconImage": "", "setBackground": "" },
+        { "wordTitle": " ", "type": "", "iconImage": "", "setBackground": "" }
+      ]
+    }
+  }
+]
